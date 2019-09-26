@@ -1,0 +1,27 @@
+1; São Paulo;45 919 049
+2; Minas Gerais;21 168 791
+3; Rio de Janeiro;17 264 943
+4;Bahia Bahia;14 873 064
+5; Paraná;11 433 957
+6; Rio Grande do Sul;11 377 239
+7; Pernambuco;9 557 071
+8; Ceará;9 132 078
+9;Pará Pará;8 602 865
+10; Santa Catarina;7 164 788
+11; Maranhão;7 075 181
+12; Goiás;7 018 354
+13; Amazonas;4 144 597
+14; Espírito Santo;4 018 650
+15; Paraíba;4 018 127
+16; Rio Grande do Norte;3 506 853
+17; Mato Grosso;3 484 466
+18; Alagoas;3 337 357
+19; Piauí;3 273 227
+20; Distrito Federal;3 015 268
+21; Mato Grosso do Sul;2 778 986
+22; Sergipe;2 298 696
+23; Rondônia;1 777 225
+24; Tocantins;1 572 866
+25; Acre;881 935
+26; Amapá;845 731
+27; Roraima;605 761
